@@ -1,0 +1,5 @@
+PySide6>=6.7
+
+# Optional future support:
+# nbtlib>=2.0
+# rich>=13.7

@@ -1,0 +1,152 @@
+Copyright (c) 2026 noxian0 | (https://github.com/noxian0/noxlab-sewizard)
+
+NOXLAB SEWIZARD CUSTOM LICENSE AND TERMS OF USE
+
+This license applies to NOXLAB SEWIZARD, including its source code, scripts, user interface, project files, assets, documentation, release files, and any official copies published by noxian0.
+
+By downloading, installing, copying, modifying, running, or using NOXLAB SEWIZARD, you agree to this license and these terms of use.
+
+1. Purpose
+
+NOXLAB SEWIZARD is intended for personal, local, offline, and single-player game save viewing, backup, and safe editing.
+
+The software is not intended for online cheating, multiplayer manipulation, anti-cheat bypassing, memory hacking, DRM bypassing, account manipulation, modifying live game processes, or interfering with online services, servers, leaderboards, economies, competitive systems, or other players.
+
+2. Allowed Use
+
+You may use NOXLAB SEWIZARD for personal, non-commercial use, including:
+
+- viewing game save files;
+- creating backups of game save files;
+- editing local save files for games you own;
+- using the software with offline or single-player games;
+- studying the source code for personal learning;
+- making private modifications for your own personal use.
+
+3. Modification And Reupload Permission
+
+You may not publicly reupload, redistribute, publish, fork for public release, mirror, package, or share modified versions of NOXLAB SEWIZARD unless you first ask noxian0 for permission and noxian0 agrees.
+
+If noxian0 gives permission, your modified version must:
+
+- keep this copyright notice;
+- clearly state that it is modified;
+- not pretend to be the official version unless noxian0 explicitly allows it;
+- not remove safety warnings, backup warnings, or ethical-use notices;
+- not add online cheating, multiplayer manipulation, anti-cheat bypass, live process editing, DRM bypass, or account manipulation features;
+- follow any extra conditions noxian0 gives when granting permission.
+
+Permission can be refused, limited, changed, or withdrawn by noxian0 for future versions or future redistribution.
+
+4. Commercial Use Is Not Allowed
+
+You may not sell NOXLAB SEWIZARD or use it to make money without separate written permission from noxian0.
+
+This includes, but is not limited to:
+
+- selling the software;
+- selling modified versions;
+- selling access to the software;
+- putting the software behind a paid subscription;
+- using a freemium model;
+- charging for premium features;
+- bundling the software in a paid product;
+- monetizing downloads;
+- using ads as a condition for access;
+- charging for support, unlocks, profiles, save editors, patches, updates, or builds based on this project;
+- hosting the software as a paid or commercial service.
+
+5. No Online Cheating Or Harmful Use
+
+You may not use, modify, redistribute, or promote NOXLAB SEWIZARD for:
+
+- online cheating;
+- multiplayer cheating;
+- competitive advantage against other players;
+- bypassing anti-cheat systems;
+- bypassing DRM or copy protection;
+- modifying live game memory or live game processes;
+- manipulating accounts, inventories, currencies, ranks, leaderboards, cloud saves, online profiles, online economies, or multiplayer data;
+- harming games, players, developers, servers, services, or communities.
+
+6. Save File Risk And Backups
+
+Editing save files can damage, corrupt, invalidate, or permanently break save files.
+
+Some games use checksums, encryption, compression, cloud synchronization, version checks, or other protection systems. A game may reject, overwrite, delete, or fail to load a modified save.
+
+NOXLAB SEWIZARD includes backup features, but you are responsible for making and keeping backups before editing any file. You should also keep separate external backups for important saves.
+
+noxian0 is not responsible if:
+
+- a save file is damaged;
+- a save file becomes unusable;
+- game progress is lost;
+- a game rejects a modified save;
+- a cloud save overwrites a local save;
+- a backup is missing, deleted, overwritten, or unusable;
+- the user did not make a backup using the app or outside the app;
+- the user edits the wrong file;
+- the user ignores warnings or uses unsupported formats.
+
+Use the software at your own risk.
+
+7. Unsupported Formats
+
+NOXLAB SEWIZARD may detect, display, or inspect save files that it cannot safely edit.
+
+If a save format is unknown, encrypted, compressed, checksum-protected, binary, or unsupported, the software should be treated as a viewer/backup tool only unless proper support exists.
+
+You are responsible for verifying that any edited save works correctly before relying on it.
+
+8. Third-Party Code, Libraries, And Save Format Sources
+
+noxian0 does not claim ownership of third-party code, libraries, tools, formats, algorithms, documentation, game engines, game files, save formats, profile logic, or external code sources that may be used, referenced, required, or integrated for editing specific types of save files.
+
+Third-party components remain the property of their respective owners and may be covered by their own licenses and terms. You must follow those third-party licenses and terms when using, modifying, building, packaging, or redistributing NOXLAB SEWIZARD.
+
+This license only covers the NOXLAB SEWIZARD project content owned by noxian0. It does not grant rights to any game, game engine, game save format, third-party library, third-party tool, trademark, or copyrighted material owned by someone else.
+
+9. No Warranty
+
+NOXLAB SEWIZARD is provided "as is" and "as available" without warranties of any kind.
+
+noxian0 does not guarantee that the software will:
+
+- work correctly;
+- support every save file;
+- avoid data loss;
+- detect every unsupported, encrypted, compressed, or checksum-protected file;
+- create a usable backup in every situation;
+- be free from bugs, errors, crashes, or security issues;
+- be accepted by any game after a save is modified.
+
+10. Limitation Of Liability
+
+To the maximum extent allowed by law, noxian0 is not liable for any direct, indirect, incidental, special, consequential, punitive, or other damages caused by or related to NOXLAB SEWIZARD.
+
+This includes loss of save files, loss of game progress, loss of data, account issues, bans, game errors, corrupted files, damaged backups, lost time, lost money, or any other harm.
+
+11. Trademarks And Games
+
+NOXLAB SEWIZARD is not affiliated with, endorsed by, sponsored by, or approved by any game developer, publisher, platform, storefront, engine creator, or online service unless explicitly stated by noxian0.
+
+All game names, engine names, file formats, trademarks, and brands belong to their respective owners.
+
+12. Termination
+
+If you violate this license, your permission to use, modify, or share NOXLAB SEWIZARD ends automatically.
+
+noxian0 may request removal of unauthorized uploads, modified versions, commercial copies, unsafe versions, or versions that violate these terms.
+
+13. Changes To These Terms
+
+noxian0 may update this license and terms of use for future versions of NOXLAB SEWIZARD.
+
+Older copies remain under the license text included with that copy unless noxian0 states otherwise or separate permission is granted.
+
+14. Acceptance
+
+By downloading, installing, copying, modifying, running, or using NOXLAB SEWIZARD, you confirm that you have read, understood, and accepted this license and these terms of use.
+
+Using NOXLAB SEWIZARD means you accept our TOS.
