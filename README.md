@@ -1,4 +1,4 @@
-# NOXLAB SEWIZARD
+# NOXLAB SAVE EDITOR WIZARD
 
 **NOXLAB SEWIZARD** is a local Windows game save editor and backup tool for personal offline and single-player saves.
 
