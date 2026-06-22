@@ -122,10 +122,9 @@ Write-Step "Installing required packages"
 & $VenvPython -m pip install --upgrade pip
 & $VenvPython -m pip install -r $Requirements
 
-Write-Step "Generating NOXLAB icon"
-& $VenvPython (Join-Path $ProjectRoot "tools\make_icon.py")
+Write-Step "Checking NOXLAB icon"
 if (-not (Test-Path -LiteralPath $IconPath)) {
-    throw "Shortcut icon was not generated at $IconPath"
+    throw "Shortcut icon was not found at $IconPath"
 }
 
 Write-Step "Creating backup folder"
